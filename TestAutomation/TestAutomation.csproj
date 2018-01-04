@@ -71,7 +71,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Steps\MainSteps.cs" />
-    <Compile Include="Steps\phptravelHomeSteps.cs" />
+    <Compile Include="Steps\BasicSteps.cs" />
+    <Compile Include="Steps\PhpTravelHomeSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

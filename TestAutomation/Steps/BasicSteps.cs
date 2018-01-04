@@ -9,6 +9,9 @@ using NUnit.Framework;
 
 namespace TestAutomation
 {
+    /// <summary>
+    ///  Class holds all generic querries thats true for multiple pages
+    /// </summary>
     [Binding]
     public sealed class BasicSteps: MainSteps
     {
